@@ -44,7 +44,7 @@ celui qui détient le plus longtemps gagne
 ![](screenshots/mode-3/img1.png)
 ![](screenshots/mode-3/img2.png)
 ![](screenshots/mode-3/img3.png)
-![](screenshots/mode-3/img4.png)
+![](screenshots/mode-3/img5.png)
 
 
 
@@ -91,4 +91,4 @@ whichever holds the longest wins
 ![](screenshots/mode-3/img1.png)
 ![](screenshots/mode-3/img2.png)
 ![](screenshots/mode-3/img3.png)
-![](screenshots/mode-3/img4.png)
+![](screenshots/mode-3/img5.png)
