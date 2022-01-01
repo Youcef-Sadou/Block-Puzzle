@@ -16,34 +16,35 @@ C'est simple au début avec seulement quelques blocs et quelques arrangements po
 
 Le jeu commence avec un menu montrant les trois modes différents du jeu
 
-![](screenshots/mode-1/Screenshot%20(173))
+![](screenshots/mode-1/img1.png)
 
 ### MODE 1 :
 ce mode est le mode normal, votre score de départ est de 0 et vous obtenez le meilleur score
 
-![](screenshots/mode-1/Screenshot%20(174))
+![](screenshots/mode-1/img2.png)
 
 l'écran de pause vous montrera les 5 meilleurs scores, un bouton pour redémarrer votre jeu et un bouton continuer
 
-![](screenshots/mode-1/Screenshot%20(173))
-
+![](screenshots/mode-1/img3.png)
 
 si vous pouvez battre l'un des 5 meilleurs scores
 vous serez invité à entrer votre nom et la liste des meilleurs buteurs sera mise à jour avec votre nom et la date du score
 
+![](screenshots/mode-1/img4.png)
+
 ### MODE 2:
 ce mode est une vitrine de la façon dont le bot programmé joue au jeu, il joue généralement assez bien
 
+![](screenshots/mode-2/img1.png)
 
 ### MODE 3:
 ce mode est Joueur contre Ordinateur, afin de s'assurer que la compétition est équitable, le joueur et l'ordinateur auront exactement les mêmes pièces générées
 celui qui détient le plus longtemps gagne
 
-
-
-
-
-
+![](screenshots/mode-3/img1.png)
+![](screenshots/mode-3/img2.png)
+![](screenshots/mode-3/img3.png)
+![](screenshots/mode-3/img4.png)
 
 
 
@@ -61,24 +62,33 @@ This is simple at first with just a few blocks and a few different possible arra
 
 The game starts off with a menu showing the three different modes of the game
 
+![](screenshots/mode-1/img1.png)
 
 ### MODE 1:
 this mode is the regular normal mode, your starting score is 0 and you get the Top score 
 
-img1
+![](screenshots/mode-1/img2.png)
 
 the pause screen will show you the top 5 scores, a button to restart your game and a continue button
 
-img2
+![](screenshots/mode-1/img3.png)
 
 
 if you can beat one of the top 5 scores
 you will be greeted to enter your name and the top scorers list will be updated with your name and date of the score
 
+![](screenshots/mode-1/img4.png)
+
 ### MODE 2:
 this mode is a showcase of how the programmed bot plays the game, it usually plays pretty well 
 
+![](screenshots/mode-2/img1.png)
 
 ### MODE 3:
 this mode is Player vs Computer, in order to ensure that the competition is fair, both of the player and the computer will have exactly the same pieces generated
 whichever holds the longest wins 
+
+![](screenshots/mode-3/img1.png)
+![](screenshots/mode-3/img2.png)
+![](screenshots/mode-3/img3.png)
+![](screenshots/mode-3/img4.png)
